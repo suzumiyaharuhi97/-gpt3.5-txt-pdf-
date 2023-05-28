@@ -1,5 +1,5 @@
 # 首先安装包：pip install openai langchain chromadb pypdf sentence_transformers
-
+#
 
 from langchain.chat_models import ChatOpenAI
 from langchain.embeddings.openai import OpenAIEmbeddings
